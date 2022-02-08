@@ -13,7 +13,7 @@ echo ==============================
 echo This script can only update Debian, ubuntu or distros based on them which use APT package manager
 echo ==============================
 echo Updating....
-sudo apt upgrade -y && sudo apt update && sudo apt-get update && sudo apt-get upgrade
+sudo apt upgrade -y && sudo apt update -y && sudo apt-get update -y && sudo apt-get upgrade -y
 echo Done!
-echo Exiting after 10 seconds
-sleep 10s
+echo Exiting after 5 seconds
+sleep 5s
