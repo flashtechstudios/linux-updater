@@ -13,7 +13,7 @@ echo ==============================
 echo This script can only update manjaro, arch or distros based on them which use pacman
 echo ==============================
 echo updating....
-pacman -Syu
+sudo pacman -Syu
 echo Done!!
 echo Exiting after 5 seconds
 sleep 5s
