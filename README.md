@@ -1,4 +1,4 @@
-So this script work on manjaro, arch, ubuntu, debian or alpine or other distros based off of them. I have shortened the package update commands into a small script. Enjoy!
+So this script works on manjaro, arch, ubuntu, debian or alpine or other distros based off of them. I have shortened the package update commands into a small script. Enjoy!
 
 For debian and ubuntu or distros based on them which use apt:
 - run: `wget https://raw.githubusercontent.com/themoonmeetsthesun/linux-updater/master/updatedebbased.sh`
